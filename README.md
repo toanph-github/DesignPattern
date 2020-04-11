@@ -8,6 +8,6 @@ There are three types of design patterns:
 
 2. Structural Design Pattern
 
-3. [Behavioral Design Pattern](Behavioral/README.md)
+3. [Behavioral Design Pattern](Behavioral/index.md)
 
-This tutorial help you understand about design patterns with example by (PHP, JAVA...)
+This tutorial help you understand about design patterns with Pseudocode
